@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should matches the stored snapshot 1`] = `""`;
+
+exports[`should matches the stored snapshot 2`] = `""`;
